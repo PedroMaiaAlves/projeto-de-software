@@ -17,3 +17,4 @@ Este repositóirio reúne análises críticas e resenhas de artigos importantes,
 - [Leia a análise sobre o artigo "On the Criteria for Modularization" 🔌🔧](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20Criteria%20for%20Modularization.pdf)
 - [Leia a análise sobre o artigo "Software Architecture A Roadmap" 🏛️🧩](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20Artigo%20Software%20Architecture%20A%20Roadmap.pdf)
 - [Leia a análise sobre o artigo "Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells"🤯](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20Hotspot%20Patterns.pdf)
+- [Leia a análise sobre o artigo "Strategic Design and Domain-Driven Design” (Capítulos 4, 5 e 6)🧩](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20%E2%80%9CStrategic%20Design%20and%20Domain-Driven%20Design%E2%80%9D.pdf)
