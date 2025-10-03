@@ -19,3 +19,4 @@ Este repositóirio reúne análises críticas e resenhas de artigos importantes,
 - [Leia a análise sobre o artigo "Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells"🤯](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20Hotspot%20Patterns.pdf)
 - [Leia a análise sobre o artigo "Strategic Design and Domain-Driven Design” (Capítulos 4, 5 e 6)🧩](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20%E2%80%9CStrategic%20Design%20and%20Domain-Driven%20Design%E2%80%9D.pdf)
 - [Leia a análise sobre o artigo "Managing Technical Debt"💳](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20artigo%20Managing%20Technical%20Debt.pdf)
+- [Leia a análise sobre o artigo "Documenting Architecture Decisions"📝](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20Documenting%20Architecture%20Decisions.pdf)
