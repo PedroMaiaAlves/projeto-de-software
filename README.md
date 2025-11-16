@@ -21,3 +21,6 @@ Este repositóirio reúne análises críticas e resenhas de artigos importantes,
 - [Leia a análise sobre o artigo "Managing Technical Debt"💳](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20artigo%20Managing%20Technical%20Debt.pdf)
 - [Leia a análise sobre o artigo "Documenting Architecture Decisions"📝](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20Documenting%20Architecture%20Decisions.pdf)
 - [Leia a análise sobre o artigo "Hexagonal Architecture" 🛑](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Resenha%20Arquitetura%20Hexagonal.pdf)
+
+## Artigos e suas Resnehas
+- [Documentação de Projeto - Misbela](https://github.com/PedroMaiaAlves/projeto-de-software/blob/main/Documenta%C3%A7%C3%A3o%20de%20Projeto%20-%20Misbela%20Ecommerce%20(1).pdf)
